@@ -1,0 +1,28 @@
+# Video
+*.mp4
+*.m4v
+
+# Audio
+*.mp3
+*.wav
+*.m4a
+
+# Archives
+*.zip
+
+# Android build files
+*.apk
+*.aab
+
+# Executables / disk images
+*.exe
+*.iso
+
+# Node.js
+node_modules/
+
+# Build output
+build/
+
+# Premiere Pro Auto-Save
+Adobe Premiere Pro Auto-Save/
